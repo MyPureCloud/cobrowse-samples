@@ -6,7 +6,8 @@ var config = {
   orgId: '',
   orgName: '',
   queueName: '',
-  agentEmail: ''
+  agentEmail: '',
+  cobrowseDeploymentKey: ''
 };
 
 var webchatConfig = {
