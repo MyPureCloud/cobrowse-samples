@@ -61,8 +61,7 @@ var webchatConfig = {
   cobrowseType: 'PURECLOUD',
   cssClass: 'webchat-frame',
   cobrowseConfig: {
-    deploymentKey: config.cobrowseDeploymentKey,
-    cobrowseServiceHost: 'cobrowse.mypurecloud.com'
+    deploymentKey: config.cobrowseDeploymentKey
   }
 };
 
