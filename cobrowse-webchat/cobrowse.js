@@ -58,7 +58,6 @@ var webchatConfig = {
     '3[47][0-9]{13}',
     '6(?:011|5[0-9]{2})[0-9]{12}'
   ],
-  cobrowseType: 'PURECLOUD',
   cssClass: 'webchat-frame',
   cobrowseConfig: {
     deploymentKey: config.cobrowseDeploymentKey
